@@ -1,0 +1,6 @@
+VOLLEYBALL ball 43.2 white 6 1
+SWIMMING glasses 30.0 blue 29 1
+TENNIS racquet 20.0 black-red mini 4
+SKIING sled 40.0 blue 40 2
+TENNIS ball 5.0 green big 1
+BASKETBALL ball 65.4 red 9 3
