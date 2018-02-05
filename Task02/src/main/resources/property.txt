@@ -1,2 +1,0 @@
-resources/shop_db.txt
-resources/rent_db.txt

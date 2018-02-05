@@ -1,9 +1,0 @@
-$mikhalkovich
-tennis racquet 30 green big 2
-tennis ball 5 green big 1
-$borisovich
-volleyball socks 3.45 black 41 1
-volleyball ball 43.2 white 6 1
-$ihnat
-BASKETBALL ball 65.4 red 9 1
-FOOTBALL ball 54.4 grey 6 1
